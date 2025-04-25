@@ -1,10 +1,12 @@
+// App.js
 import React from 'react';
-import './App.css';
-
+import ButterflyInfo from './ButterflyInfo';
+import DogInfo from './DogInfo';
 function App() {
   return (
-    <div className="App">
-     <h1>Yo</h1>
+    <div>
+      <ButterflyInfo />
+      <DogInfo />
     </div>
   );
 }
