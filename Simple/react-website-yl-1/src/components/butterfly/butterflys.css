@@ -1,0 +1,11 @@
+/* ButterflyInfo.css */
+.butterfly-container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .butterfly-image {
+    width: 300px;
+    border-radius: 8px;
+  }
+  
